@@ -24,11 +24,6 @@ The Integrated Maternal and Child Care System offers comprehensive healthcare se
 - Engage with financial aid, psychological support, and caregiver options if needed.
 - Ensure regular medication and immunization tracking for optimal health management.
 
-## Contact
-
-- LinkedIn: [Vijai Suria](https://www.linkedin.com/in/vijaisuria)
-- Portfolio: [vijaisuria.github.io](https://vijaisuria.github.io)
-
 ## License
 
 This project is licensed under the [MIT License] License - see the [LICENSE.md](LICENSE.md) file for details.
